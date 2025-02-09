@@ -92,4 +92,4 @@ Este proceso permitió limpiar y estructurar los datos de manera efectiva, asegu
 
 ---
 ## Enlace al Dashboard
-[Acceder al Dashboard en Looker Studio](https://tu-enlace-dashboard.com)
+[Acceder al Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/4b8d8ec0-784b-44e9-a74b-0f82e94bc406)
