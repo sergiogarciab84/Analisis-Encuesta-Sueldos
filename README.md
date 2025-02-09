@@ -81,10 +81,18 @@ df.to_excel("datos_modelados.xlsx", index=False)
 ---
 ## Visualización del Dashboard
 ### Capturas del Dashboard:
+#### **Portada**
+![Portada](https://github.com/sergiogarciab84/Analisis-Encuesta-Sueldos/blob/main/portada.png)
+
 #### **Total de Encuestados y Distribución por País**
-![Dashboard 1](https://link-a-tu-imagen1.png)
+![Dashboard Slide 1](https://github.com/sergiogarciab84/Analisis-Encuesta-Sueldos/blob/main/1.png)
+
 #### **Relación Industria vs. Salario**
-![Dashboard 2](https://link-a-tu-imagen2.png)
+![Dashboard Slide 2](https://github.com/sergiogarciab84/Analisis-Encuesta-Sueldos/blob/main/2.png)
+
+#### **Salario Anual vs Tiempo de Experiencia**
+![Dashboard Slide 3](https://github.com/sergiogarciab84/Analisis-Encuesta-Sueldos/blob/main/3.png)
+
 
 ---
 ## Conclusión
